@@ -6,6 +6,9 @@
 - #### I'm a student of Computer Science & Engineering from Dhaka, Bangladesh.
 - #### I'm currently learing Web Designing.
 - #### I have some works with Arduino Stuff.<br>
+<p>
+ <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/coder.gif" width="300px alt="codergif">
+</p>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahriarShafin&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
