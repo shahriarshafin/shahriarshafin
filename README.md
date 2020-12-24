@@ -37,6 +37,13 @@
 
 </details>
 
+<details>
+  <summary>:zap: Here is meme for you, to make your day better</summary>
+(*PS: Refresh the page to see a new meme* :wink: )
+
+<a href="https://github.com/ShahriarShafin"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
+</details>
+
  ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 
@@ -56,14 +63,3 @@
 </p>       
 
 ---
-
-
-<details>
-  <summary>:zap: Used Languages</summary>
-
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<a href="https://github.com/ShahriarShafin"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="300"></a>
-</details>
-
