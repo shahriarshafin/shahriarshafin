@@ -5,7 +5,7 @@
 - I'm currently learing Web Designing.
 - I have some works with Arduino Stuff.<br>
 
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShahriarShafin)  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahriarShafin&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  ### Languages and Tools:
  
