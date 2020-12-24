@@ -3,9 +3,9 @@
 
  ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
-- I'm a student of Computer Science & Engineering from Dhaka, Bangladesh.
-- I'm currently learing Web Designing.
-- I have some works with Arduino Stuff.<br>
+- #### I'm a student of Computer Science & Engineering from Dhaka, Bangladesh.
+- #### I'm currently learing Web Designing.
+- #### I have some works with Arduino Stuff.<br>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahriarShafin&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
