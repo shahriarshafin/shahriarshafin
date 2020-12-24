@@ -1,7 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://shahriarshafin.me/">Shahriar Shafin.</a> Welcome to my GitHub! 🤗</h1>
----
- <p align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/coder.gif" alt="codergif" /> </p>
----
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://shahriarshafin.me/">Shahriar Shafin.</a> Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 🤗</h1>
+
+
+ <p align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/coder.gif" width="300px alt="codergif" /> </p>
+
  
 <h2>
 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
