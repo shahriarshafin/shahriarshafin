@@ -36,7 +36,13 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=merko" />
 
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+  <summary>:zap: Used Languages</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarShafin&layout=compact" />
+
+</details>
 
 
 --- 
