@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary>:zap: Used Languages</summary>
+  <summary>:zap: Most Used Languages</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarShafin&layout=compact" />
 
