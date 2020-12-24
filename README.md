@@ -1,5 +1,3 @@
-
-#### Profile Visits
  ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://shahriarshafin.me/">Shahriar Shafin.</a> Nice to see you.🤗</h1>
  I'm a student of Computer Science & Engineering from Dhaka, Bangladesh.<br>
