@@ -49,7 +49,7 @@
 
 <p align="center">
    <i>
-     “If You Think Math is Hard Try Web Design <br>
+     "If You Think Math is Hard Try Web Design" <br>
                                          -Trish Parr
   </i>
 </p>       
