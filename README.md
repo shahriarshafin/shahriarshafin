@@ -24,17 +24,17 @@
 </p>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>🌟 GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=merko" />
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>📚 Most Used Languages</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarShafin&layout=compact" />
 </details>
 
 <details>
-  <summary>:zap: Here is meme for you, to make your day better</summary>
+  <summary>😄 Here is meme for you, to make your day better</summary>
    (*PS: Refresh the page to see a new meme* :wink: )
    <a href="https://github.com/ShahriarShafin"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."                height="350"></a>
 </details>
