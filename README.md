@@ -3,7 +3,8 @@
 
  ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
-- #### Student of Computer Science & Engineering from Dhaka, Bangladesh.
+- #### From Dhaka, Bangladesh.
+- #### Student of Computer Science & Engineering,<a href="https://www.uap-bd.edu/"> University of Asia Pacific.</a>
 - #### I'm currently learing Web Designing.
 - #### I have some works with Arduino Stuff.<br>
 <p>
