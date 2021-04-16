@@ -1,58 +1,98 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://shahriarshafin.me/" target="_blank">Shahriar Shafin</a>. Nice to see you.🤗</h1>
+<!-- https://github.com/ShahriarShafin/ -->
+<!-- April 15, 2021 -->
+<!-- leave a STAR, if you like it ! -->
 
- ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
-- #### From Dhaka, Bangladesh.
-- #### Student of Computer Science & Engineering, <a href="https://www.uap-bd.edu/" target="_blank">University of Asia Pacific.</a>
-- #### I'm currently learing Web Development.
-- #### I have some works with Arduino Stuff.<br> 
-<p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahriarShafin&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
- ### Languages and Tools:
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" width="70">
- <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
-</p>
-
-<details>
-  <summary>🌟 GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=merko" />
-</details>
-
-<details>
-  <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarShafin&layout=compact" />
-</details>
-
-<details>
-  <summary>😄 Here is meme for you, to make your day better</summary>
-   <a href="https://github.com/ShahriarShafin"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/meme.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
-</details>
-
- ### 📫 Connect with me
- 
-<a href="https://www.linkedin.com/in/shahriarshafin/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/shhriar_shafin"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/c/ShahriarShafin/videos"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/shhriar.shafin"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:shafinshahriar340@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
-|--|--|--|--|--|
-<br>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hello World!, I am
+                <b><a target="_blank" href="https://shahriarshafin.me/">Shahriar Shafin</a></b>
+        </samp>
+</h3>
 <br>
 
---- 
-
 <p align="center">
-   <i>
-     "If You Think Math is Hard Try Web Design" <br>
-                                         -Trish Parr
-  </i>
-</p>       
+        <!-- Organisation  -->
+        <samp>
+                「 From Dhaka, Bangladesh 」
+                <br>
+                「 Student, Computer Science & Engineering @<b> University of Asia Pacific</b> 」
+                <br>
+                <br>
+        </samp>
+        <!-- Programming Languages -->
+        <!-- Code logo -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Code"
+                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+        </a>
+        <!-- HTML -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+        </a>
+        <!-- CSS  -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        </a>
+        <!-- JavaScript -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>
+        <!-- Python -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        </a>
+        <!-- C++ -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
+                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
+        </a>
+        <!-- Arduino -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        </a>
+</p>
 
----
+<!-- Details Section-->
+<details align="center">
+    <summary> <samp>&#9776; Read More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Shahriar Shafin's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Gmail -->
+        <a href="mailto:shafinshahriar340@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Facebook -->
+        <a href="https://www.facebook.com/shhriar.shafin" target="_blank"><img alt="Facebook"
+                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
+        </a>
+        <!-- Instagram -->
+        <a href="https://www.instagram.com/shhriar_shafin/" target="_blank"><img alt="Instagram"
+                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        <!-- Youtube -->
+        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        </a>
+    </p>
+</details>
+<br>
+
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
