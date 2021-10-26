@@ -1,13 +1,13 @@
 <!-- https://github.com/ShahriarShafin/ -->
 <!-- April 15, 2021 -->
-<!-- leave a STAR, if you like it ! -->
+<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
 ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello World!, I am
+        <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://shahriarshafin.me/">Shahriar Shafin</a></b>
         </samp>
 </h3>
@@ -16,9 +16,9 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Dhaka, Bangladesh 」
+                「 I Code what I Design 」
                 <br>
-                「 Student, Computer Science & Engineering @<b> University of Asia Pacific</b> 」
+                「 I am a front-end web developer and passionate ui designer from <b>Bangladesh</b> 」
                 <br>
                 <br>
         </samp>
@@ -55,7 +55,7 @@
 
 <!-- Details Section-->
 <details align="center">
-    <summary> <samp>&#9776; Read More</samp></summary>
+    <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
         <br>
         <!-- Activity Widget -->
@@ -96,3 +96,26 @@
         "Happy Coding👨‍💻!"
     </p>
 </samp>
+
+<!-- Pinned Repositories -->
+#### Pinned
+
+<p align="center">
+<a href="https://github.com/shahriarshafin/shahriarshafin">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/disney-plus-clone">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/Iot-car-controller">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
